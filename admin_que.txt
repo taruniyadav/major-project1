@@ -1,0 +1,6 @@
+Is this student depressed?
+Is the student mentally stressed?
+What is the emotional condition?
+What sentiment pattern does the student show?
+What emotion is dominant?
+Is the student mentally healthy?
