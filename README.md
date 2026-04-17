@@ -1,7 +1,6 @@
 #  Emotion Aware Intelligent Model (EAIM)
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_svg.svg)](https://emotion-adaptive-learning.streamlit.app/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 
 EAIM is an advanced **Adaptive Learning Platform** that leverages real-time emotional intelligence to personalize educational content. By analyzing facial expressions, voice, and text sentiment, the system dynamically adjusts its teaching style, quiz difficulty, and visual aids to match the student's emotional state and interests.
 
